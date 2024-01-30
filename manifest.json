@@ -1,0 +1,16 @@
+{
+     "name" : "ex",
+     "short_name" : "ex",
+     
+     "display" : "standalone",
+     "start_url" : "Index.html",
+     "theme_color" : "white",
+     "prefer_related_applications":"true",
+     "icons":[
+          {
+         "src" :  "icon.jpg",
+         "type": "image/jpg",
+         "size": "512×512"
+          }
+          ]
+}
